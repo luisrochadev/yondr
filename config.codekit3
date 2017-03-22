@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "25704",
 "files": {
+	"\/assets\/css\/owl.carousel-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/owl.carousel-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/css\/owl.carousel.css": {
 		"aP": 1,
 		"bl": 0,

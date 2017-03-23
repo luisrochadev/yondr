@@ -1,5 +1,6 @@
 // MOBILE MENU NAV
 jQuery(document).ready(function ($) {
+  $('.owl-carousel').owlCarousel();
 
   var $toggle = $('#nav-toggle');
   var $menu = $('#nav-menu');
@@ -57,3 +58,5 @@ $("#yondrscroll").click(function() {
         scrollTop: $("#yondrcontent").offset().top
     }, 600);
 });
+
+new WOW().init();

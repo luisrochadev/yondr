@@ -6,7 +6,7 @@
 
 <p>✨ <strong>Yondr</strong> is an awesome website for an awesome product. Built for aesthetic as well as utility, this sample page is meant to showcase a high-quality online experience to pair nicely with a high quality brand. ✨</p>
 
-<p><a href="luisrochadev.com/yondr" class="btn btn-primary btn-md">Launch Page</a></p>
+<p><a href="http://luisrochadev.com/yondr" class="btn btn-primary btn-md">Launch Page</a></p>
 </div>
 
 ---
